@@ -12,7 +12,8 @@ img {
 
 ul,
 a,
-p {
+p,
+blockquote {
   margin: 0px;
   padding: 0px;
   list-style: none;
