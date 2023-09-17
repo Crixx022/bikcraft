@@ -1,8 +1,8 @@
 .font-1-xs {
-  .font-2-xs {
-    font: 400 0.875rem/1.43 "Roboto", Sans-serif;
-  }
-  font-size: 600 0.75rem/1.35 "Poppins", Sans-serif ;
+  font: 600 0.875rem/1.35 "Poppins", Sans-serif ;
+}
+.font-2-xs {
+  font: 400 0.875rem/1.43 "Roboto", Sans-serif;
 }
 .font-2-s {
   font: 400 1rem/1.5 "Roboto", Sans-serif;
