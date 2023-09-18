@@ -55,4 +55,8 @@
     padding: 40px 20px;
     justify-self: center;
   }
+  .depoimento-conteudo p::after,
+  .depoimento-conteudo p::before {
+    display: none;
+  }
 }

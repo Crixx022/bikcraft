@@ -59,4 +59,10 @@
   text-align: right;
 }
 
+@media (max-width: 800px) {
+  .seguro {
+    grid-template-columns: 1fr;
+  }
+}
+
 

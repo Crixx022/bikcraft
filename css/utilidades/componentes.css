@@ -45,24 +45,6 @@
   }
 }
 
-@media (max-width: 800px) {
-  .botao-secundario {
-    font-size: 1rem;
-    padding: 12px 16px;
-  }
-}
-
-@media (max-width: 600px) {
-  .botao {
-    padding: 12px 16px;
-    font-size: 1rem;
-  }
-  .botao-secundario {
-    padding: 12px 16px;
-    font-size: 1rem;
-  }
-}
-
 .link {
   display: inline-block;
   color: var(--cor-p1);
