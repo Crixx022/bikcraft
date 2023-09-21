@@ -1,6 +1,9 @@
 .font-2-ft {
   font: 400 1rem/2.0 "Roboto", Sans-serif;
 }
+.font-2-alt {
+  font: 500 1.25rem/1.3 "Roboto", Sans-serif;
+}
 .font-1-xs {
   font: 600 0.875rem/1.35 "Poppins", Sans-serif ;
 }

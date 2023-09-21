@@ -38,9 +38,6 @@
     grid-template-columns: 1fr;
     gap: 32px;
   }
-  .font-1-xxl {
-    margin-bottom: 16px;
-  }
   .introducao-bg {
     background: var(--cor-11);
     padding-top: 40px;

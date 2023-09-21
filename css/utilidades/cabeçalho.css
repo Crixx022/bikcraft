@@ -1,0 +1,15 @@
+.cabeçalho-bg {
+  background-color: var(--cor-11);
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.cabeçalho h2 {
+  padding-top: 4px;
+}
+
+@media (max-width: 800px) {
+  .cabeçalho p {
+    text-transform: lowercase;
+  }
+}

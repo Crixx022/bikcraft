@@ -27,3 +27,9 @@
 
 /* Footer */
 @import "./footer/footer.css";
+
+/* Cabeçalho interno */
+@import "./utilidades/cabeçalho.css";
+
+/* Termos e condições */
+@import "./termos/termos.css";
